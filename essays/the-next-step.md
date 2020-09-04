@@ -12,7 +12,7 @@ labels:
 ## The Beginning 
 Coding is seen as a reading and writing system across the world. Under the broad definition of coding, there are many languages with different syntaxes. Going into computer science with little knowledge, I never imagined how many tools and information are out there. I spent my year in computer science learning the basics of coding, in languages such as Java and C/C++. We were tasked with solving practice problems over and over again, but never really amounting to any large projects.
 
-<img class="ui tiny left circular floated image" src="../images/branch.png">
+<img class="ui image" src="../images/branch.png">
 <!--- https://processing.org/tutorials/drawing/ -->
 
 ## Branching Off
@@ -21,7 +21,7 @@ Past the basics of coding, there are many paths in this field. Going into my sec
 
 When solving practice problems with Javascript, I found it to be exciting as there are even more ways of solving a problem. What was different about this and previous experiences is that we were timed. This element adds more pressure and a new challenge for me. I think this is a great way of understanding where you are and what things to improve on. Software engineering opens up a whole new library of possibilities, and I’m ready to take the next step. 
 
-<img class="ui tiny left circular floated image" src="../images/step1.png">
+<img class="ui image" src="../images/step1.png">
 <!--- https://www.pinterest.de/pin/399835273172695999/ -->
 
 
