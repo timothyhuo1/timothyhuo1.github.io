@@ -11,7 +11,7 @@ labels:
 summary: A website for my family-own business. 
 ---
 
-HiTEA <img class="ui medium right floated rounded image" src="../images/about.png">
+HiTEA <img class="ui image" src="../images/about.png">
 
 HiTEA is a local family-owned business that serves boba and chinese food. My partner and I designed a website to help customers stay in touch and provide more information behind HiTEA. Also, made the website to act as a take home menu and currently, trying to set up a order online service using square-up. 
 
