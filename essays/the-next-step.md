@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## Beginning of the Journey
+## The Beginning 
 Coding is seen as a reading and writing system across the world. Under the broad definition of coding, there are many languages with different syntaxes. Going into computer science with little knowledge, I never imagined how many tools and information are out there. I spent my year in computer science learning the basics of coding, in languages such as Java and C/C++. We were tasked with solving practice problems over and over again, but never really amounting to any large projects.
 
 <img class="ui tiny left circular floated image" src="../images/branch.png">
