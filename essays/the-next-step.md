@@ -22,7 +22,7 @@ Past the basics of coding, there are many paths in this field. Going into my sec
 
 When solving practice problems with Javascript, I found it to be exciting as there are even more ways of solving a problem. What was different about this and previous experiences is that we were timed. This element adds more pressure and a new challenge for me. I think this is a great way of understanding where you are and what things to improve on. Software engineering opens up a whole new library of possibilities, and I’m ready to take the next step. 
 
-<img class="ui tiny left circular floated image" src="../images/step.png">
+<img class="ui tiny left circular floated image" src="../images/step1.png">
 <!--- https://www.pinterest.de/pin/399835273172695999/ -->
 
 
