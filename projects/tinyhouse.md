@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/house.png
 title: Tiny House
-permalink: projects/cotton
+permalink: projects/tinyhouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
 labels:
