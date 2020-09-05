@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-
+##
 Entering my software engineering class, I didn’t really know what to expect. However, I knew the style and format of the class would be different. In my previous information technology system classes, we focused on the fundamentals of different languages. When I think of software engineering, I think of creating applications and designs with technology. That is one of the reasons why I’m interested in software engineering because it’s a combination of skills I learned before and applying them to a final product. 
 
 <img class="ui image" src="../images/website.png">
