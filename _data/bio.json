@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "Timothy Huo",
+        "username": "timothy huo",
         "url": "http://linkedin.com/in/timothy-huo-087b121b5"
       }
     ]
@@ -81,6 +81,7 @@
   "work": [
     {
       "company": "HiTEA Cafe",
+      "position": "",
       "website": "http://hitea808.com/",
       "startDate": "2017-06-01",
       "endDate": "Present",
@@ -96,6 +97,7 @@
     {
       "organization": "Hawaiʻi Undergraduate Initiative",
       "website": "http://manoa.hawaii.edu/omsshui/",
+      "position": "",
       "startDate": "2019-08-01",
       "endDate": "2020-05-01",
       "summary": "Director of Marketing & Website Manager",
