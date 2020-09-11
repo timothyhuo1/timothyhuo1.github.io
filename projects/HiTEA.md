@@ -17,7 +17,7 @@ HiTEA is a local family-owned business that serves boba and Chinese food. Before
 
 This project was created using front-end development and hosted with Amazon Web Services (AWS). During the beginning of the summer this year, I watched boot camps on HTML/CSS on youtube. Towards the end of the summer, I completed a Udemy course on full-stack development. I did most of creating the website while my partner helped me design individual pages. Then, I learned how to configure a static website using a custom domain on AWS. This project helped me understand how a website works and showed me the endless possibilities of web design. In this project, I improved my web application skills and discovered helpful tools on the internet. 
 
-This project is still a work-in-progress, as there are still so many things we can still work on and implement. I'm currently trying to set up an online order service using square-up. A couple of things I want to try is to implement a back-end, so I'll be able to gather customer input. Also, make the website more interactive using javascript. Hopefully, I can apply the things I learn in college to this project. 
+This project is still a work-in-progress, as there are still so many things we can still work on. I'm currently trying to set up an online order service using square-up. A couple of things I want to try are to implement a back-end, so I'll be able to gather customer input. Also, make the website more interactive using javascript. Hopefully, I can apply the things I learn in college to this project. 
 
 Website: http://hitea808.com/
 
