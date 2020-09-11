@@ -19,6 +19,7 @@ This project was created using front-end development and hosted with Amazon Web 
 
 This project is still a work-in-progress, as there are still so many things we can still work on. I'm currently trying to set up an online order service using square-up. A couple of things I want to try are to implement a back-end, so I'll be able to gather customer input. Also, make the website more interactive using javascript. Hopefully, I can apply the things I learn in college to this project. 
 
-Website: http://hitea808.com/
+Here is a link to [HiTEA Website](http://hitea808.com/).
+
 
 
