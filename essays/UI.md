@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Power Of UI Frameworks  
 # All dates must be YYYY-MM-DD format!
-date: 2020-10-8
+date: 2020-10-08
 labels:
   - Software Engineering
   - Learning
