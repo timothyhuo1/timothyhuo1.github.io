@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## The Development of Designs 
+## The Development
 
 <img class="ui small right floated rounded image" src="../images/blueprint.png">
 
