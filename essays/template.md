@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns 
+title: Designs In Code 
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
