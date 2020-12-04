@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  
+title: Design Patterns 
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## House that is Tiny 
+## Development of Designs 
 
 <img class="ui tiny right floated rounded image" src="../images/blueprint.png">
 
