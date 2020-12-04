@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Key To Success For Coding 
+title:  
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-## The Templates 
+## House that is Tiny 
 
 <img class="ui tiny right floated rounded image" src="../images/blueprint.png">
 
