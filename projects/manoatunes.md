@@ -20,11 +20,11 @@ Our two main focuses were profiles and jams. We wanted to let students have thei
 
 Here is a link to [Manoa Tunes Github Repo](https://github.com/manoa-tunes/manoa-tunes). For more information visit our github [page](https://manoa-tunes.github.io/).
 
-<img class="ui small right floated rounded image" src="../images/jam.png">
+<img class="ui large right floated rounded image" src="../images/jam.png">
 This image is the jams page, I implemented cards that display information about jams and buttons that allow users to join and leave them. On the admin side, I worked on deleting the jam cards. 
 <br>
 <br>
-<img class="ui small right floated rounded image" src="../images/comment.png">
+<img class="ui large right floated rounded image" src="../images/comment.png">
 This image is the comment feature, I implemented a button that allowed you to write reviews about a person. On the admin side, I worked on deleting the comments. 
 <br>
 <br>
