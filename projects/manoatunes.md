@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/tunes.png
-title: Manoa Tunes
-permalink: projects/Manoa-Tunes
+image: images/house.png
+title: Tiny House
+permalink: projects/tinyhouse
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-18
+date: 2019-03-01
 labels:
-  - Software Engineering
-  - Meteor
-  - JavaScript
-summary: Manoa Tunes: a website connecting people with musical interests
+  - Engineering
+  - Construction
+summary: Tiny House Design Challenge 
 ---
 
 Like many others going into college, we had to sacrifice most of our hobbies to focus on school and our future. For me, it was playing music. At one point in high school, music was one of the most important aspects of my life. Throughout my experience playing music, I have developed bonds with my peers and teachers. Even though I stopped playing, I still enjoy listening to music. It was not until this project for my software engineering class that sparked my interest again. My group worked on a final project called Manoa Tunes to help students and faculty connect and share with music. Many students like me would like to express our musical creativity, and our group wanted to provide a platform to do so. 
