@@ -32,4 +32,6 @@ This image is the comment feature, I implemented a button that allowed you to wr
 <br>
 <br>
 <br>
+<br>
+<br>
 Manoa Tunes was my first software engineering project, and I’m lucky to have worked with these group members. Along the way, I picked many skills, such as issue-driven project management, which helped us stay organized and on track. Also, other tools we picked up like Robo 3T and Semantic played a big part in how much we accomplished. Taking effort into these skills and tools saved us tons of time. 
