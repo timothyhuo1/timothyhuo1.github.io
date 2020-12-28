@@ -110,15 +110,14 @@
       ]
     },
     {
-      "organization": "Hawaiʻi Undergraduate Initiative",
-      "website": "http://manoa.hawaii.edu/omsshui/",
-      "position": "Director of Marketing",
-      "startDate": "2019-08-01",
+      "organization": "ICSpark",
+      "website": "icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2020-10-01",
       "endDate": "Present",
-      "summary": "Advertise & Website Editor",
+      "summary": "Mentor 6th to 12th graders",
       "highlights": [
-        "Design and update club website",
-        "Design promotional items and advertise events"
+        "Teach students Web Development(HTML, CSS, and Javascript)",
       ]
     },
   ],
