@@ -19,7 +19,7 @@ This project was created using front-end development and hosted on Amazon Web Se
 
 This project is still a work-in-progress, as there are still so many things we can still work on. I'm currently trying to set up an online order service using square-up. Also, I want to apply things I learned in college such as UI frameworks and back-end development. 
 
-Website: [Here](http://hitea808.com/) and Github [Repo](https://github.com/timothyhuo1/HiTEA) 
+Here is the [Website](http://hitea808.com/) and Github [Repo](https://github.com/timothyhuo1/HiTEA) 
 
 
 
