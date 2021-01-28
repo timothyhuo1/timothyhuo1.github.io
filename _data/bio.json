@@ -78,6 +78,10 @@
       "endDate": "Present",
       "gpa": "3.81",
       "courses": [
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 414 - Software Engineering II"
       ]
     }
   ],
