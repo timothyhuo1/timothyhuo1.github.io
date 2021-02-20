@@ -53,10 +53,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Python",
-        "Django",
         "Semantic UI",
         "Bootstrap",
+        "Jekyll",
+        "Sass",
         "Meteor (React)"
       ]
     },
@@ -65,7 +65,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub"
+        "Git/GitHub",
+        "AWS"
       ]
     }
   ],
