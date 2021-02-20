@@ -101,17 +101,6 @@
     },
   ],
   "volunteer": [
-    {
-      "organization": "ICSpark",
-      "website": "https://icspark.github.io/",
-      "position": "Mentor",
-      "startDate": "2020-10-01",
-      "endDate": "Present",
-      "summary": "Mentor 6th to 12th graders",
-      "highlights": [
-        "Teaching students web development (HTML, CSS, and Javascript)",
-      ]
-    },
         {
       "organization": "Technology Outreach Hawaii",
       "website": "https://technology-outreach-hawaii.github.io/",
@@ -121,6 +110,17 @@
       "summary": "Helping young adults and teens find interest in technology across Hawaiʻi",
       "highlights": [
         "Developing and designing website",
+      ]
+    },
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "summary": "Mentor 6th to 12th graders",
+      "highlights": [
+        "Teaching students web development (HTML, CSS, and Javascript)",
       ]
     },
     {
