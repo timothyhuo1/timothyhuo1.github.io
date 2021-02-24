@@ -5,7 +5,7 @@ title: The Power Of UI Frameworks
 # All dates must be YYYY-MM-DD format!
 date: 2020-10-08
 labels:
-  - Software Engineering
+  - UI-Frameworks
   - Learning
 ---
 
