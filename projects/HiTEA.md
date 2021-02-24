@@ -13,13 +13,12 @@ summary: A website for my family-own business.
 
 <img class="ui large right floated rounded image" src="../images/menu.png">
 
-HiTEA is a local family-owned business that serves boba and Chinese food. Before this project, I felt the previous website didn't reflect what our business represented. So, I designed a new website to help customers stay in touch and provide more information behind HiTEA. Whenever I work there, I get tons of people asking for a take-home menu, but we don't have one. This was one of the reasons why I started this project, to make the website act as a convenient take-home menu.
+HiTEA is a local family-owned business that serves boba and Chinese food here in Hawaii. I created a website to help customers stay in touch and provide more information behind HiTEA. Also, have an option to order online with the Clover POS. 
+This project was created using web development and frameworks such as Semantic UI. The static website is hosted using Amazon S3 buckets. Also, through Amazon CloudFront to secure the website (SSH certificate). 
 
 <img class="ui large left floated rounded image" src="../images/about.png">
 
-This project was created using front-end development and hosted on Amazon Web Services (AWS). During the beginning summer of 2020, I watched boot camps on HTML/CSS on youtube. Then, I learned how to configure a static website using a custom domain on AWS. This project helped me understand how a website works and showed me the endless possibilities of web design. In this project, I improved my web application skills and discovered helpful tools on the internet. 
-
-This project is still a work-in-progress, as there are still so many things we can still work on. I'm currently trying to set up an online order service using square-up. Also, I want to apply things I learned in college such as UI frameworks and back-end development. 
+This project helped me understand how a website works and showed me the endless possibilities of web design. In this project, I improved my web application skills and discovered helpful tools on the internet. This project is still a work-in-progress, as there are still so many things I want work on. 
 
 Here is the [Website](http://hitea808.com/) and Github [Repo](https://github.com/timothyhuo1/HiTEA) 
 
