@@ -9,12 +9,12 @@ date: 2020-08-03
 labels:
   - Web-Development
   - AWS 
-summary: A website for my family-own business. 
+summary: A website for a local business here in Hawaii. 
 ---
 
 <img class="ui image" src="../images/HiTEA-home.png">
 
-HiTEA is a local family-owned business that serves boba and Chinese food here in Hawaii. I created a website to help customers stay in touch and provide more information behind HiTEA. Also, have an option to order online with the Clover POS. 
+HiTEA is a local business that serves boba and Chinese food here in Hawaii. I created a website to help customers stay in touch and provide more information behind HiTEA. Also, have an option to order online with the Clover POS. 
 This project was created using web development and frameworks such as Semantic UI. The static website is hosted using Amazon S3 buckets. Also, through Amazon CloudFront to secure the website (SSH certification). 
 
 <img class="ui large left floated rounded image" src="../images/about.png">
