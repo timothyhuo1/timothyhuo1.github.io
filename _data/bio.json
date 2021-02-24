@@ -6,7 +6,7 @@
     "email": "thuo@hawaii.edu",
     "phone": "",
     "website": "https://timothyhuo1.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -73,7 +73,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "Present",
