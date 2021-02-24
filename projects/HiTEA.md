@@ -7,7 +7,8 @@ permalink: projects/HiTEA
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-03
 labels:
-  - Front-end 
+  - Web-Development
+  - AWS 
 summary: A website for my family-own business. 
 ---
 
