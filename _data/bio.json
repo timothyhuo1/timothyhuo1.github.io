@@ -97,6 +97,7 @@
       "highlights": [
         "Designing and maintaining company website using web development",
         "Managing social media platforms including Instagram and Yelp",
+        "Hosted and protected website using AWS S3 and cloudfront (SSH certificate)",
       ]
     },
   ],
@@ -104,7 +105,7 @@
         {
       "organization": "Technology Outreach Hawaii",
       "website": "https://technology-outreach-hawaii.github.io/",
-      "position": "Web Developer",
+      "position": "Web Master",
       "startDate": "2021-02-01",
       "endDate": "Present",
       "summary": "Helping young adults and teens find interest in technology across Hawaiʻi",
