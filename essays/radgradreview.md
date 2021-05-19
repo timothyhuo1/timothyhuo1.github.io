@@ -20,7 +20,7 @@ In the field of Computer Science, there are so many areas of interest and opport
 A Scale for Success
 RadGrad empathizes that GPA is not the only factor that is important to a computer science student. They implemented a system called ICE, which measures innovation, competency, and experience from not only courses but also opportunities. I feel that this system leads computer science students in a better direction. When trying to find a job, the experience and what you have done play a huge role in the hiring process. This system encouraged me to do other extracurricular activities and try to explore what the community has to offer. 
 
-# Weaknesses
+# Things to Look At
 
 Planner Page
 For the Planner page, it seems like everything in the planner is so close together and I had trouble trying to drag the correct opportunity/course to a different semester. It is a bit difficult to hover over the opportunity/course when trying to show the indication of what the class is or how many points is that opportunity. For the right side, it seems like the opportunities and courses that you favored just keeps extending down the page, I think having a scroll here would be a better implementation. 
