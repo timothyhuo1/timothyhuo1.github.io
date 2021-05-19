@@ -21,7 +21,11 @@ RadGrad does a great job of breaking down the functionality of the website so yo
 
 <img class="ui image" src="../images/interest.png">
 
-In the field of Computer Science, there are so many areas of interest, and opportunities that come with them. RadGrad helps minimize the amount of effort in finding opportunities relevant to interest or course. The design of the Interests and Courses page not only tells the user what certain sections are about but also all the related opportunities. This is also reflected in the opportunities page, wherein each opportunity shows all the related courses and interests. These features can be used to plan out what to pursue and help make college more enjoyable. I was looking through the Opportunities page and there were so many to choose from. At first, it may seem difficult to find a certain opportunity that the user might be interested in, but RadGrad solves this by adding options to filter and sort by certain requirements. Instead of looking through the whole list of opportunities, these filters allow users to narrow down their choices. One filter that I found interesting was the Recommended, where it filters all the opportunities depending on my existing information.     
+In the field of Computer Science, there are so many areas of interest, and opportunities that come with them. RadGrad helps minimize the amount of effort in finding opportunities relevant to interest or course. The design of the Interests and Courses page not only tells the user what certain sections are about but also all the related opportunities. This is also reflected in the opportunities page, wherein each opportunity shows all the related courses and interests. These features can be used to plan out what to pursue and help make college more enjoyable. 
+
+<img class="ui image" src="../images/opportunities.png">
+
+Looking through the Opportunities page, there were a lot of options to choose from. At first, it may seem difficult to find a certain opportunity that the user might be interested in, but RadGrad solves this by adding options to filter and sort by certain requirements. Instead of looking through the whole list of opportunities, these filters allow users to narrow down their choices. One filter that I found interesting was the Recommended, where it filters all the opportunities depending on my existing information.     
 
 <b>A Scale for Success</b>
 
@@ -45,13 +49,13 @@ Errors:
 
 <img class="ui image" src="../images/notinplan-tags.png">
 
-The formatting of a page when there is a lot of tags can create unncessecary blank space. The example in the image above shows the course page to Introduction to Programming for the Web (ICS 415). In the Not In Plan section on the left side, there is a list of opportunities that are related to this course. However, this leaves a huge blank space on the right side because there are no course reviews. Even if there were course reviews, the Not In Plan tags will overwhelm the other sections on that left side. Adding a dropdown menu or a view more button would minimize the page length and space.
+The formatting of a page when there is a lot of tags can create unnecessary blank space. The example in the image above shows the course page to Introduction to Programming for the Web (ICS 415). In the Not In Plan section on the left side, there is a list of opportunities that are related to this course. However, this leaves a huge blank space on the right side because there are no course reviews. Even if there were course reviews, the Not In Plan tags will overwhelm the other sections on that left side. Adding a dropdown menu or a view more button would minimize the page length and space.
 
 <b>Organization</b>
 
 <img class="ui image" src="../images/visibility-display.png">
 
-When users check off certain visibility control, this is reflected in the interests and career pages. For example the image above shows that certain student tags stand out, like having an image or showing their RadGrad level. This should be consistent, by only showing first and last name. 
+When users check off certain visibility control, this is reflected in the interests and career pages. For example, the image above shows that certain student tags stand out, like having an image or showing their RadGrad level. This should be consistent, by only showing first and last names. 
 
 
 <img class="ui image" src="../images/visibility-courses.png">
