@@ -39,7 +39,7 @@ RadGrad emphasizes that GPA is not the only factor that is important to a comput
 
 <img class="ui image" src="../images/planner.png">
 
-For the Planner page, it seems like everything in the planner is very compact, and I had trouble trying to drag the correct opportunity/course to a different semester. It is difficult to hover over the opportunity/course when trying to show the indication of what the class is, or how many points that opportunity is worth. For the right side, the opportunities and courses that you continue to extend down the page, I think having a scroll bar here would be an improvement.
+For the Planner page, it seems like everything in the planner is very compact, and I had trouble trying to drag the correct opportunity/course to a different semester. It is difficult to hover over the opportunity/course when trying to show the indication of what the class is, or how many points that opportunity is worth. For the right side, the opportunities and courses that you have continue to extend down the page, I think having a scroll bar here would be an improvement.
 
 Errors:
 - There are duplicate courses 
