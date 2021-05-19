@@ -11,7 +11,7 @@ Deciding what you want to pursue for the rest of your life is a difficult choice
 
 # Strengths
 
-<u>To-Do List</u>
+<b>To-Do List</b>
 
 RadGrad does a great job of breaking down the functionality of the website so you aren’t overwhelmed. I think the Personal To-Do List is a very helpful feature, especially for those who are first using the site. It organizes all the tasks into groups depending on priority and provides a good indication of what is needed to be reviewed again. When I was addressing the high and medium priorities, it showed me my current information without having to visit that page directly. For example, my Career Goals had my current ones being displayed on the card and it asked me to review them since I haven’t within the past three months. I think the system reminding you to review and update certain things past a time interval is amazing since my career goals for example could have changed. And this change can impact other parts of the page for the better like my recommended opportunities. Everything is laid out for you in a compact format and it only takes a few clicks to explore what RadGrad has to offer. 
 
