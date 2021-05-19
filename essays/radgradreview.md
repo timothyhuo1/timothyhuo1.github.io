@@ -55,12 +55,12 @@ The formatting of a page when there is a lot of tags can create unnecessary blan
 
 <img class="ui image" src="../images/visibility-display.png">
 
-When users check off certain visibility control, this is reflected in the interests and career pages. For example, the image above shows that certain student tags stand out, like having an image or showing their RadGrad level. This should be consistent, by only showing first and last names. 
+When users check off certain visibility control, this is reflected in the interests and career pages. For example, the image above shows that certain student tags stand out, like having an image or showing their RadGrad level. I think this should be consistent, by only showing first and last names. 
 
 
 <img class="ui image" src="../images/visibility-courses.png">
 
-When you check off courses in the visibility control, the courses should be sorted by course number.
+When you check off courses in the visibility control, I think the courses should be sorted by course number.
 
 <b>Suggestions</b>
 
