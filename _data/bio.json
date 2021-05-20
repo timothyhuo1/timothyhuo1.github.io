@@ -96,8 +96,8 @@
       "summary": "Managing company’s marketing initiatives.",
       "highlights": [
         "Designing and maintaining company website using web development",
-        "Managing social media platforms including Instagram and Yelp",
         "Hosted and protected website using AWS S3 and cloudfront (SSH certificate)",
+        "Managing social media platforms including Instagram and Yelp",
       ]
     },
   ],
