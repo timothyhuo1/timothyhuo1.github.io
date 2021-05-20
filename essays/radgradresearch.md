@@ -16,15 +16,15 @@ On top of that, RadGrad2 tries to make the user experience easier for students. 
 
 ## Ideas of Improvement 
 
-When new users join, I think there should be an assist feature to help guide and inform them what different components do. This could be a circular button (question mark) next to an existing button that opens a small text detailing what it does and how it affects other parts of the page. For example, when adding the opportunities to your profile, the assist button could mention that it will show up in your planner, and you can assign it to a semester.
+When new users join, an assist feature would be helpful to guide and inform them what different components do. This could be a circular button (question mark) next to an existing button that opens a small text detailing what it does and how it affects other parts of the page. For example, when adding the opportunities to your profile, the assist button could mention that it will show up in your planner, and you can assign it to a semester.
 
-Displaying opportunity is one of the main components of RadGrad2 that differs from other existing platforms such as STAR. I think having a dashboard that shows limited time opportunities or a frequently updated list would encourage students to keep revisiting RadGrad2. 
+Displaying opportunity is one of the main components of RadGrad2 that differs from other existing platforms such as STAR. Having a dashboard that shows limited time opportunities or a frequently updated list would encourage students to keep revisiting RadGrad2. 
 
 I also think building a community on the platform could help support these goals. Currently, RadGrad2 has a community page but it mainly shows cumulative components of different categories such as popular careers. The only aspect that we get to see other student’s opinions are on the reviews of different courses and opportunities. I think there should be more options to share experiences and advice that may be graduating seniors would have to the lower classmen. This could show that you aren’t alone on this pathway to graduating college and supports the idea of communities of practice. I liked the approach of the previous RadGrad, where they had mentors in the community who would answer commonly asked questions by computer science students. 
 
 ## Ideas of a Pilot Study
 
-For this summer, I think the design of a pilot study should focus on students who are just entering the computer science program. Either those who are planning to go to the University of Manoa or the lower classmen(freshman and sophomore) to discuss RadGrad2. The data we get from students just beginning the program provides useful ideas and opinions since it would help them the most. This could be one on one through online platforms such as zoom or discord and going through the functionalities of RadGrad2, mainly the high and medium priorities on the To-Do list. 
+For this summer, the design of a pilot study should focus on students who are just entering the computer science program. Either those who are planning to go to the University of Manoa or the lower classmen(freshman and sophomore) to discuss RadGrad2. The data we get from students just beginning the program provides useful ideas and opinions since it would help them the most. This could be one on one through online platforms such as zoom or discord and going through the functionalities of RadGrad2, mainly the high and medium priorities on the To-Do list. 
 
 Some questions that could be asked would be
 Would you see yourself frequently using this platform, if not why?
