@@ -26,7 +26,8 @@ I also think building a community on the platform could help support these goals
 
 For this summer, the design of a pilot study should focus on students who are just entering the computer science program. Either those who are planning to go to the University of Manoa or the lower classmen(freshman and sophomore) to discuss RadGrad2. The data we get from students just beginning the program provides useful ideas and opinions since it would help them the most. This could be one on one through online platforms such as zoom or discord and going through the functionalities of RadGrad2, mainly the high and medium priorities on the To-Do list. 
 
-Some questions that could be asked would be
-Would you see yourself frequently using this platform, if not why?
-What are some things that would keep your interest in RadGrad2?
+Some questions that could be asked would be:
+
+- Would you see yourself frequently using this platform, if not why?
+- What are some things that would keep your interest in RadGrad2?
 
