@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reviewing RadGrad As a Research Project
+title: Reviewing RadGrad as a research project
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-20
 labels:
