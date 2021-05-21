@@ -18,7 +18,7 @@ For Task 1, we started off with a simple exercise that many coders are familiar 
 
 This was my first time using fomantic-ui to find the icon needed for this task. The advice and hints I got from the session helped me complete this task smoothly. Here is the code:
 
-<img class="ui image" src="../images/sandbox/Task1-code.png">
+```<RadGradSegment header={<RadGradHeader title='TASK 1: HELLO WORLD' icon='globe americas'/>}> Hello World </RadGradSegment>```
 
 #Task 2:
 
