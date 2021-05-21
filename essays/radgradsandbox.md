@@ -20,5 +20,23 @@ This was my first time using fomantic-ui to find the icon needed for this task. 
 
 <img class="ui image" src="../images/sandbox/Task1-code.png">
 
+#Task 2:
+
+For Task 2, we are creating another RadGradSegment detailing the user who is currently logged in and the user that appears in the URL. The one challenge that I had was getting the username in the URL. With the help from other interns, I was directed to a hook called UseParams that grabbed the username in the URL. 
+
+``` const { username } = useParams(); ```
+
+<img class="ui image" src="../images/sandbox/Task2-code.png">
+
+Here are the results:
+
+Same user logged in
+
+<img class="ui image" src="../images/sandbox/Task2-user.png">
+
+Different user logged in 
+
+<img class="ui image" src="../images/sandbox/Task2-admin.png">
+
 
 
