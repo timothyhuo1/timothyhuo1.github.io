@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-Research Interns at RadGrad2 were tasked to complete practice exercises to get familiarized with the RadGrad system. This is my experience with this task and the problems I faced.
+This summer's Research Interns at RadGrad2 was tasked to complete practice exercises to get familiarized with the RadGrad system. This is my experience with this task and the problems I faced.
 
 # Task 1: 
 
