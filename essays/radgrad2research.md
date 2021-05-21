@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-Choosing to major in computer science comes with a lot of challenges that could discourage you from continuing. At first, it may seem overwhelming to choose a specific career and interest to focus on and learn the skills needed to perform in those areas. The RadGrad research project aims at the improvement of engagement, retention, and diversity. It provides a platform to help computer science and engineering students on their track to graduating and develop their interests in different areas of computer science.   
+Choosing to major in computer science comes with a lot of challenges that could discourage you from continuing. At first, it may seem overwhelming to choose a specific career and interest to focus on and learn the skills needed to perform in those areas. The RadGrad research project aims at the improvement of engagement, retention, and diversity. It provides a platform to help computer science students on their track to graduating and develop their interests in different areas of computer science.   
 
 RadGrad2 supports these goals by implementing features such as ICE (Innovation, Competency, Experience) as a replacement for the standard grade point average. Showing that GPA shouldn’t be the sole focus in college and the activities and clubs that you participate in outside of class as the same degree of importance. With the ICE system, the student’s goal is to reach 100 points in all three categories. Unlike GPA, the performance in these courses and opportunities do not bring down your points. 
 
