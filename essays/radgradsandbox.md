@@ -36,6 +36,6 @@ Different user logged in:
 
 # Task 3:
 
-![refreshing](task3.gif)
+![refreshing](../images/sandbox/task3.gif)
 
 
