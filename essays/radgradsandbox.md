@@ -36,7 +36,13 @@ Different user logged in:
 
 # Task 3:
 
+For Task3, we had to create another RadGradSegment presenting MiniMongo data. In the segment, we had to display a random career goal that the current user has in their profile. Also, show the number of career goals that the current user has. I used useRouteMatch() and Router.getUserIdFromRoute() to find the current page’s user id and match it with the objects in the ProfileCareerGoals. From there, I found the total careers of the user and randomized the display. 
+
+Here is a gif showing a new career goal everytime the page is refreshed:
 <img src="../images/task3.gif" width="750" height="500"/> 
+
+Here is a gif showing reactivity with two users:
+<img src="../images/task3-2.gif" width="750" height="500"/> 
 
 
 
