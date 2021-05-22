@@ -36,7 +36,7 @@ Different user logged in:
 
 # Task 3:
 
-<img src="../images/task3.gif" width="600" height="500"/> 
+<img src="../images/task3.gif" width="750" height="500"/> 
 
 
 
