@@ -36,8 +36,7 @@ Different user logged in:
 
 # Task 3:
 
-<img src="../images/sandbox/task3.gif" width="40" height="40" /> 
-![task3](https://github.com/timothyhuo1/timothyhuo1.github.io/blob/master/images/task3.gif)
+<img src="https://github.com/timothyhuo1/timothyhuo1.github.io/blob/master/images/task3.gif" width="40" height="40" /> 
 
 
 
