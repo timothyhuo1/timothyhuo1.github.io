@@ -42,7 +42,7 @@ Here is a gif showing a new career goal everytime the page is refreshed:
 <img src="../images/task3.gif" width="720" height="500"/> 
 
 Here is a gif showing reactivity with two users:
-<img src="../images/task3-2.gif" width="720" height="500"/> 
+<img src="../images/task3-add.gif" width="720" height="500"/> 
 
 
 
