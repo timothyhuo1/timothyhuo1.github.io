@@ -34,5 +34,8 @@ Different user logged in:
 
 <img class="ui image" src="../images/sandbox/Task2-admin.png">
 
+# Task 3:
+
+![](task3.gif)
 
 
