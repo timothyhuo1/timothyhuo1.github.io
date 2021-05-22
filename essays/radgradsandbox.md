@@ -36,8 +36,7 @@ Different user logged in:
 
 # Task 3:
 
-<img class="ui image" src="../images/sandbox/task3.gif">
+<img class="ui image" src="../images/sandbox/task3.gif" width="40" height="40"> 
 
-![refreshing](../images/sandbox/task3.gif)
 
 
