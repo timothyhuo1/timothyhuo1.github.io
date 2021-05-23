@@ -36,7 +36,7 @@ Different user logged in:
 
 # Task 3:
 
-For Task3, we had to create another RadGradSegment presenting MiniMongo data. In the segment, we had to display a random career goal and the number of career goals that the system has. By accessing the CareerGoals collection, I found the total careers in the system and randomized the display. 
+For Task3, we had to create another RadGradSegment presenting MiniMongo data. In the segment, we had to display a random career goal and the number of career goals that the system has. By accessing the CareerGoals collection using withTracker, I found the total careers in the system and randomized the display. Using Robo3T made my life easier as I was able to find the collection and properties I was looking for. Some useful commands that I learned were command-shift-F that searches a string in the selected directory and command-b that goes to a page that defines the function that I highlighted. 
 
 Here is a gif showing a new career goal everytime the page is refreshed:
 <img src="../images/task3.gif" width="720" height="500"/> 
