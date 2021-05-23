@@ -47,7 +47,7 @@ Here is a gif showing reactivity with two users:
 # Task 4
 For Task 4, we created a RadGradSegment containing all labels in the system. To get the collections, I used findNonRetired() that returns the non-retired documents. Then map through them to return them as labels with the associated slug or profile ID. After getting the first set of Career Goals labels to display, the rest were very similar. 
 
-<img class="ui image" src="../images/sandbox/Task4.png">
+<img class="ui image" src="../images/sandbox/task4.png">
 
 
 
