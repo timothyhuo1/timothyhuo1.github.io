@@ -49,6 +49,11 @@ For Task 4, we created a RadGradSegment containing all labels in the system. To 
 
 <img class="ui image" src="../images/sandbox/task4.png">
 
+# Task 5
+For Task 5, we created a form to control what’s displayed on our page. I have used Uniforms in the past but not with react hooks. Setting up the form was similar to what I learned in Software Engineering I. For the dropdown, I set the allowed values to an array of the Interests names. It took me a bit to understand react hooks. After storing the selected interest, displaying the description was just like Task 3 with markdown. 
+
+<img class="ui image" src="../images/sandbox/task5.png">
+
 
 
 
