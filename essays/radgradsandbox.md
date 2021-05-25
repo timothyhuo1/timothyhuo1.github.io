@@ -55,13 +55,22 @@ For Task 5, we created a form to control what’s displayed on our page. I have 
 <img class="ui image" src="../images/sandbox/Task5.png">
 
 # Task 6
-For Task 6, we continued with Task 5 by adding another field that updates the database. After selecting an Interest and clicking on the Display Description button, a text field would appear that allows you to edit the description. This task was the trickiest for me, and I would like to revisit and update my code because I believe there are simpler ways to do complete this task than what I did. The biggest trouble I had was passing the selected Interest to my Task6EditDescription component where my other form would be located at. I tried using other interfaces but ran into trouble. I decided to just pass the interests name and description and in my Task6EditDescription component call updateMethod.callPromise. 
+For Task 6, we continued with Task 5 by adding another field that updates the database. After selecting an Interest and clicking on the Display Description button, a text field would appear that allows you to edit the description. This task was the trickiest for me and I had to revisit this task multiple times. I had a bit of trouble trying to pass a function and description text to my secondary React component. After passing the function and description, I referenced other pages that use updateMethod.callPromise(). 
 
 This image shows a student trying to update the description of an interest. 
 <img class="ui image" src="../images/sandbox/Task6-user.png">
 
 This image shows an admin trying to update the description of an interest.
 <img class="ui image" src="../images/sandbox/Task6-admin.png">
+
+# Task 7
+For Task 7, we had to create a tabbed and modal component. I have worked with modals before but not with tabbed. For the tabbed component, I decided to display all users according to their roles. This is similar to Task 4 when we had to display the labels of all the students in the system. For the modal, I displayed Task 1: Hello World. 
+
+Image of Tabbed Component:
+<img class="ui image" src="../images/sandbox/Task7-tab.png">
+
+Image of Modal Component:
+<img class="ui image" src="../images/sandbox/Task7-modal.png">
 
 
 
