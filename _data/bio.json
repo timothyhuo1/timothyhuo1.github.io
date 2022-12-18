@@ -1,113 +1,151 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Timothy Huo",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/timothyhuo1.png",
+    "email": "thuo@hawaii.edu",
+    "website": "https://timothyhuo1.github.io/",
+    "summary": "I am studying for a B.S. and M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate with my B.S. in Spring 2023.",
+    "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "timothyhuo1", "url": "https://github.com/timothyhuo1" },
+      { "network": "linkedin", "username": "timothy-huo", "url": "https://www.linkedin.com/in/timothy-huo/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence & Machine Learning" },
+    { "name": "Educational Technology" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "AWS, Bootstrap, HTML/CSS, Java, Javascript (ReactJS), Meteor, Python, Semantic UI" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Databases",
+      "keywords": [ "DynamoDB, Firebase, MongoDB, MySQL, PostgreSQL" ]
+    },
+    {
+      "name": "Project Management",
+      "keywords": [ "JIRA, Confluence, Git/GitHub, Trello" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "M.S.",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
+        "ICS 661 - Adv Artificial Intelligence", 
+        "ICS 691E - Software Quality Assurance"
+      ]
+    },     
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+        "ICS 311 - Algorithms", 
+        "ICS 314, 414 - Software Engineering", 
+        "ICS 321 - Database Systems I",  
+        "ICS 427 - Software Quality Assurance",
+        "ICS 451 - Data Networks",
+        "ICS 466 - Design for Mobile Devices" 
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DataHouse",
+      "position": "Software Engineering Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-02-01",
+      "endDate": "2022-08-15",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Built RESTful APIs using AWS Lambda and API Gateway to create a stable and scalable hoteling platform for 200+ employees to establish communication with users, databases, and other AWS tools",
+        "Designed and developed recurring reservation features to reduce load time using Python and PostgreSQL",
+        "Created automated tests to monitor and debug API endpoints using Postman and pytest",
+        "Led daily scrum meetings and sprint retrospectives with a development team of 7"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "RadGrad",
+      "position": "National Science Foundation (NSF) Research Intern",
+      "website": "https://radgrad2.ics.hawaii.edu/#/",
+      "startDate": "2021-05-01",
+      "endDate": "2021-07-1",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintained a production-level software system using ReactJS, Typescript, and MongoDB",
+        "Implemented web scrapers to collect 1000+ internships from sites using Puppeteer.js",
+        "Presented RadGrad2 summer research project and pilot study at the 2021 SURE Symposium"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+        {
+      "organization": "Technology Outreach Hawaii",
+      "website": "https://hitorch.org/",
+      "position": "Lead Web Developer",
+      "startDate": "2021-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "A 501(c)3 non-profit leveraging the power of our youth to promote technology education, mentorship, collaboration and service across Hawaii.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Spearhead and manage a high school after school pilot program (20+ students) teaching foundations of software engineering including web development, project management, and hosting",
+        "Develop and maintain the organization’s websites and digital security with a development team of 5 using HTML, CSS, Javascript, Bootstrap, Jekyll, Sass, and GitHub",
+        "Analyze participants’ demographics and statistics to visualize trends using Python libraries",
+        "Participate in technology workshops and live coding sessions teaching 6-12 grade students "
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Vice President, Mentor",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "A Registered Independent Organization (RIO) at the University of Hawaii that offer college student-lead coding programs to youth.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Mentor 6-12 grade students in 3-month courses about the fundamentals of web development",
+        "Oversee activities relating to mentor-in-training sessions, recruitment (reached a max capacity of ~30/40 6-12th grade students yearly), and in-person/remote course preparation"
+      ]
+    },
+    {
+      "organization": "Hawaii Undergraduate Initiative (HUI)",
+      "website": "http://manoa.hawaii.edu/omsshui/",
+      "position": "Director of Marketing",
+      "startDate": "2019-08-01",
+      "endDate": "2020-06-01",
+      "summary": "A leadership program providing free courses and workshops for a select group of incoming freshmen at the University of Hawaii at Manoa",
+      "highlights": [
+        "Planned engaging workshops that explores academics/careers and develop skills for the freshman cohort",
+        "Designed promotional items and advertising materials for events and marketing purposes"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "3rd Place and Peoples' Choice Hawaii Annual Code Challenge",
+      "date": "October 2022",
+      "awarder": "Hawaii Annual Code Challenge (HACC)",
+      "summary": "Interactive, accessible online application that encourages people to learn more about the internet and technology"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "1st Place Hawaii Annual Code Challenge",
+      "date": "November 2021",
+      "awarder": "Hawaii Annual Code Challenge (HACC)",
+      "summary": "Online reporting platform that helps Hawai’i Marine Animal Response organize sighting reports from the public"
+    },
+    {
+      "title": "1st Place Meteor Hackathon",
+      "date": "October 2021",
+      "awarder": "Meteor",
+      "summary": "Community application to help organize events (e.g., cleanups and workshops) and communicate through forums"
     }
   ],
   "references": [
