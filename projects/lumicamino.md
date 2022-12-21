@@ -6,6 +6,7 @@ title: LumiCamino
 date: 2021-10-13
 published: true
 labels:
+  - Class Project
   - Software Engineering
 summary: A web application designed to help individuals track COVID symptoms and vaccination status.
 ---

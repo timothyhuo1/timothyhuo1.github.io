@@ -1,27 +1,24 @@
 ---
 layout: project
 type: project
-image: img/hitea/HiTEA.png
-title: HiTEA Website
+image: img/local/local.png
+title: Websites 4 Local Businesses
 date: 2020-08-03
 published: true
 labels:
-  - HTML/CSS
-  - Javascript
-  - Bootstrap
-  - AWS S3
-summary: First website developed for a local business here in Hawaii.
+  - Software Engineering
+summary: Static websites for local businesses (HiTEA + Aloha Bowls and Tea) here in Hawaii. 
 ---
-
-<img class="img-fluid" src="/img/hitea/HiTEA-home.png">
-
-HiTEA is a local business that serves boba and Chinese food here in Hawaii. I created a website to help customers stay in touch and provide more information behind HiTEA. Also, allow an option for customers to order online with the Clover POS.
-This project was created using web development and frameworks such as Semantic UI. The static website was hosted using Amazon S3 buckets. Also, Amazon CloudFront to secure the website (SSL encryption).
-
 <div class="text-center p-4">
-  <img width="800" src="/img/hitea/about.png" class="img-thumbnail" >
+  <img width="400" src="/img/local/hitea.png" class="img-thumbnail" >
+  <img width="400" src="/img/local/abt.png" class="img-thumbnail" >
 </div>
 
-This project helped me understand how a website works and showed me the endless possibilities of web design. In this project, I improved my web application skills and discovered helpful tools on the internet. This project is still a work-in-progress, as there are still so many things I want to work on.
+HiTEA and Aloha Bowls and Tea are local businesses that serve food and drinks here in Hawaii. I created websites for both companies to help customers stay in touch and present more information about the company. Having a website is essential to stay connected with customers and promoting new products/services. 
 
-Here is the [Website](http://hitea808.com/) and Github [Repo](https://github.com/timothyhuo1/HiTEA)
+HiTEA is located in The Lanai at Ala Moana that serves authentic Chinese food and fresh smoothies/teas. For HiTEA's website, I used HTML, CSS, Javascript, and Bootstrap hosted on AWS S3 and CloudFront. I also implemented the Clover POS component to allow customers to order online. HiTEA is the parent company of Aloha Bowls and Tea. See the website <a href="https://hitea808.com/" target="_blank">here</a>. 
+
+Aloha Bowls and Tea is located in Hilton Hawaiian Village that serves healthy and high-quality poke, acai, and smoothies/teas. 
+For Aloha Bowls and Tea's website, I used HTML, CSS, Javascript, Jekyll, and Sass hosted on GitHub Pages. See the website <a href="https://alohabowlsandtea.com/" target="_blank">here</a>.
+
+These two websites were the first projects I worked on dealing with web development. It helped me understand how a website works and the possibilities of web design. It is still a work in progress, as there are still so many things I want to incorporate. 
