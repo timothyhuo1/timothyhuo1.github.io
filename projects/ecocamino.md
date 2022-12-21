@@ -6,10 +6,9 @@ title: "EcoCamino"
 date: 2021-10-22
 published: true
 labels:
-  - Meteor Hackathon 2021
-  - 1st Place  
+  - Hackathon
   - Software Engineering
-summary: "A community application to help organize events (e.g., cleanups and workshops) and communicate through forums."
+summary: "A community application to help organize events (e.g., cleanups and workshops) and communicate through forums. Developed during the 2021 Meteor Hackathon."
 ---
 
 ### Meteor Hackathon 

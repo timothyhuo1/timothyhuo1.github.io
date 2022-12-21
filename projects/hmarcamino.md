@@ -6,16 +6,15 @@ title: HMARCamino
 date: 2021-11-21
 published: true
 labels:
-  - HACC 2021
-  - 1st Place
+  - Hackathon
   - Software Engineering
-summary: An online reporting platform that organizes and collects sighting reports from the general public for Hawai’i Marine Animal Response (or HMAR) members.
+summary: An online reporting platform that organizes and collects sighting reports from the general public for Hawai’i Marine Animal Response (or HMAR) members. Developed during the 2021 Hawaiʻi Annual Code Challenge (HACC).
 ---
 
 ### Hawaii Annual Coding Challenge  
 <img class="img-fluid" src="/img/hmarcamino/landing.png">
 
-The Hawaii Annual Coding Challenge (HACC) was a month-long hackathon from October to November. At the beginning of the HACC, participants formed teams and selected one of the given challenges. I joined a team of 5, and our tech stack was Meteor, React.js, Semantic UI, MongoDB, and Galaxy. We chose to work on NIC Hawaii - Hawaii Marine Animal Response (HMAR) Sighting & Reporting App. This challenge was perfect for us because it aligned with our passion and skillset. HMAR’s only means of collecting information on sightings or animals in distress is through a hotline number. However, according to HMAR, this comes with many issues, such as observers not being familiar with their current location, multiple calls on the same sightings, and many more.  
+The Hawaii Annual Coding Challenge (HACC) 2021 was a month-long hackathon from October to November. At the beginning of the HACC, participants formed teams and selected one of the given challenges. I joined a team of 5, and our tech stack was Meteor, React.js, Semantic UI, MongoDB, and Galaxy. We chose to work on NIC Hawaii - Hawaii Marine Animal Response (HMAR) Sighting & Reporting App. This challenge was perfect for us because it aligned with our passion and skillset. HMAR’s only means of collecting information on sightings or animals in distress is through a hotline number. However, according to HMAR, this comes with many issues, such as observers not being familiar with their current location, multiple calls on the same sightings, and many more.  
 
 ### HMARCamino and Personal Contribution 
 
