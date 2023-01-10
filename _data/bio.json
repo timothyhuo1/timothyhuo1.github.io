@@ -61,9 +61,23 @@
   ],
   "work": [
     {
+      "company": "Technology Outreach Hawaii",
+      "position": "Lead Web Developer",
+      "website": "https://hitorch.org/",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Spearhead and manage a high school after school pilot program (20+ students) teaching foundations of software engineering including web development, project management, and hosting",
+        "Develop and maintain the organization’s websites and digital security with a development team of 5 using HTML, CSS, Javascript, Bootstrap, Jekyll, Sass, and GitHub",
+        "Analyze participants’ demographics and statistics to visualize trends using Python libraries",
+        "Participate in technology workshops and live coding sessions teaching 6-12 grade students "
+      ]
+    },
+    {
       "company": "DataHouse",
       "position": "Software Engineering Intern",
-      "website": "https://www.datahouse.com/",
+      "website": "https://datahouse.com/",
       "startDate": "2022-02-01",
       "endDate": "2022-08-15",
       "summary": "",
@@ -75,9 +89,9 @@
       ]
     },
     {
-      "company": "RadGrad",
-      "position": "National Science Foundation (NSF) Research Intern",
-      "website": "https://radgrad2.ics.hawaii.edu/",
+      "company": "Collaborative Software Development Laboratory",
+      "position": "Research Assistant",
+      "website": "https://csdl.ics.hawaii.edu/",
       "startDate": "2021-05-01",
       "endDate": "2021-07-01",
       "summary": "",
@@ -89,20 +103,6 @@
     }
   ],
   "volunteer": [
-        {
-      "organization": "Technology Outreach Hawaii",
-      "website": "https://hitorch.org/",
-      "position": "Lead Web Developer",
-      "startDate": "2021-01-01",
-      "endDate": "Present",
-      "summary": "A 501(c)3 non-profit leveraging the power of our youth to promote technology education, mentorship, collaboration and service across Hawaii.",
-      "highlights": [
-        "Spearhead and manage a high school after school pilot program (20+ students) teaching foundations of software engineering including web development, project management, and hosting",
-        "Develop and maintain the organization’s websites and digital security with a development team of 5 using HTML, CSS, Javascript, Bootstrap, Jekyll, Sass, and GitHub",
-        "Analyze participants’ demographics and statistics to visualize trends using Python libraries",
-        "Participate in technology workshops and live coding sessions teaching 6-12 grade students "
-      ]
-    },
     {
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
